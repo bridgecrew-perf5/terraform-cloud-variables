@@ -1,6 +1,6 @@
 # Terraform Cloud Variables
 
-- [AWS](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+- [AWS](https://registry.terraform.io/providers/hashicorp/aws/latest/docs#environment-variables)
 
   ![AWS Environment Variables for Terraform Cloud](./images/TerraformCloud_AwsVariables.png "AWS Environment Variables")
 
@@ -49,7 +49,7 @@
     }
     ```
 
-- [OCI (Oracle Cloud Infrastructure)](https://registry.terraform.io/providers/hashicorp/oci/latest/docs)
+- [OCI (Oracle Cloud Infrastructure)](https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/terraformproviderconfiguration.htm#environmentVariables__settingenvironmentvariablesinlinux)
 
   ![OCI Environment Variables for Terraform Cloud](./images/TerraformCloud_OCIVariables.png "OCI Environment Variables")
 
